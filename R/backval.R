@@ -2,6 +2,7 @@
 #' 
 #' Calculate backgroud values for vegetation index.
 #' 
+#' 
 #' Night temperature Tn >= Tmin (default 5 degree) defined as raw growing season.  
 #' Background value is determined from two neighboring vegetation in raw growing 
 #' season by assuming that the background and vegetation abundance could remain 

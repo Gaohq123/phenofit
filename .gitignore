@@ -62,7 +62,12 @@ src-i386/
 src-x64/
 inst/doc
 temp/
+man/
+
 # test/
+inst/shiny/phenofit_old
+inst/shiny/check_season
+
 
 # Office document
 notebook
